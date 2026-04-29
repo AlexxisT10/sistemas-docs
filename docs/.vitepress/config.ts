@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  srcDir: '.', 
+  base: '/sistemas-docs/',
 
   title: 'Sistemas Informáticos',
 
